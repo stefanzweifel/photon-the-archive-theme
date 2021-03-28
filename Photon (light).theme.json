@@ -1,0 +1,126 @@
+{
+    "name": "Photon",
+    "style": "Light",
+    "author": [
+        {
+            "name": "Stefan Zweifel",
+            "url": "https://stefanzweifel.io"
+        },
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#FFFFFF",
+        "caretColor": "#888888",
+
+        "highlight": {
+            "color": "#2A2A2F",
+            "backgroundColor": "#DDDDDD",
+            "unfocusedColor": "#ffffff",
+            "unfocusedBackgroundColor": "#DDDDDD"
+        },
+        "selection": {
+            "color": "#ffffff",
+            "backgroundColor": "#F2CA00",
+            "unfocusedBackgroundColor": "#F2CA00"
+        },
+    },
+
+    "savedSearchesSidebar": {
+        "color": "#222222",
+        "backgroundColor": "#FFFFFF",
+        "highlightedBackgroundColor": "#DDDDDD",
+
+        "border": "#EEEEEE",
+        "iconColors": {
+            "default": "#2A2A2F"
+        }
+    },
+
+    "resultsList": {
+        "color": "#222222",
+        "backgroundColor": "#FFFFFF",
+        "alternateBackgroundColor": "#EEEEEE",
+        "selection": {
+            "color": "#FFFFFF",
+            "backgroundColor": "#FF00BA",
+            "unfocusedColor": "#333333",
+            "unfocusedBackgroundColor": "#DDDDDD"
+        },
+        "border": "#EEEEEE",
+    },
+
+    "styles": {
+        "base": {
+            "color": "#2A2A2F"
+        },
+
+        "h1": {
+            "color": "#005FE7",
+            "font": { "style": "bold" }
+        },
+        "h2": {
+            "color": "#005FE7",
+            "font": { "style": "bold" }
+        },
+        "h3": {
+            "color": "#005FE7",
+            "font": { "style": "bold" }
+        },
+        "h4": {
+            "color": "#005FE7",
+            "font": { "style": "bold" }
+        },
+        "h5": {
+            "color": "#005FE7",
+            "font": { "style": "bold" }
+        },
+        "h6": {
+            "color": "#005FE7",
+            "font": { "style": "bold" }
+        },
+
+        "horizontalRule": {
+            "color": "#2A2A2F"
+        },
+
+        "codeBlock": {
+            "color": "#FF00BA",
+            "backgroundColor": "#EEEEEE"
+        },
+        "inlineCode": {
+            "color": "#FF00BA",
+            "backgroundColor": "#EEEEEE"
+        },
+
+        "blockquote": {
+            "color": "#00C000",
+            "font": { "style": "italic" }
+        },
+        "list": {
+            "syntax": { "color" : "#888888" }
+        },
+
+        "emphasis": {
+            "font": { "style": "italic" }
+        },
+        "strong": {
+            "font": { "style": "bold" }
+        },
+
+        "image": {
+            "color": "#FF00BA"
+        },
+        "footnote": {
+            "color": "#FF00BA"
+        },
+        "link": {
+            "color": "#FF00BA",
+        },
+
+        "comment": {
+            "color": "#00C000",
+            "font": { "style": "italic" }
+        }
+    }
+}
