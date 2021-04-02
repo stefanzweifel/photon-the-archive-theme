@@ -1,6 +1,6 @@
-# photon-the-archive-theme
+# Photon "The Archive.app" Theme
 
-A "The Archive.app" theme based on the PhpStorm Theme ["Photon"](https://github.com/brendt/phpstorm-photon-theme) by Brent Roose.
+A ["The Archive.app"](https://zettelkasten.de/the-archive/) theme based on the PhpStorm Theme ["Photon"](https://github.com/brendt/phpstorm-photon-theme) by Brent Roose.
 
 ![Screenshot of Light and Dark Photon Theme](https://github.com/stefanzweifel/photon-the-archive-theme/blob/main/readme-image.jpg)
 
