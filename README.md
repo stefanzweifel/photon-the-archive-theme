@@ -16,8 +16,8 @@ A "The Archive.app" theme based on the PhpStorm Theme ["Photon"](https://github.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]https://github.com/stefanzweifel/photon-the-archive-theme/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/stefanzweifel/photon-the-archive-theme/tags).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]https://github.com/stefanzweifel/photon-the-archive-theme/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/stefanzweifel/photon-the-archive-theme/blob/main/LICENSE) file for details.
